@@ -1,0 +1,5 @@
+n=int(input("Introduceti nr de iepuri initial"))
+nm=int(input("Introduceti nr de iepuri morti"))
+nn=int(input("Introduceti nr de iepuri nascuti"))
+nf=(n-nm)+(n+nn)
+print("Numarul de iepuri la sfarsitul lunii este",nf,)
